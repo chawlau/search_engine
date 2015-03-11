@@ -1,0 +1,2062 @@
+2015-03-11 10:11:47,499: NOTICE set cache thread log_system 
+2015-03-11 10:11:47,499: NOTICE set cache thread hash_map cache
+2015-03-11 10:11:47,499: NOTICE set page_cache thread log_system 
+2015-03-11 10:11:47,499: NOTICE set page_cache thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set page_cache thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,499: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,499: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,499: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,499: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,499: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,499: NOTICE set run thread log_system
+2015-03-11 10:11:47,500: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread log_system
+2015-03-11 10:11:47,500: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread log_system
+2015-03-11 10:11:47,500: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread log_system
+2015-03-11 10:11:47,500: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread log_system
+2015-03-11 10:11:47,500: NOTICE set run thread's hash_map cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,500: NOTICE set run thread's page_cache
+2015-03-11 10:11:47,501: NOTICE disk word_cache read is over!
+2015-03-11 10:11:47,501: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:11:47,502: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:11:47,502: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:11:47,503: NOTICE disk word_cache write is over!
+2015-03-11 10:11:47,503: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:11:47,506: NOTICE disk page_cache read is over!
+2015-03-11 10:11:47,506: NOTICE page_cache synchronize start!
+2015-03-11 10:11:47,507: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:11:47,508: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:11:47,512: NOTICE disk page_cache write is over!
+2015-03-11 10:11:47,513: NOTICE page_cache synchronize over!
+2015-03-11 10:11:47,513: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:11:47,514: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:11:47,514: NOTICE title_cache synchronize over!
+2015-03-11 10:11:57,504: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:11:57,505: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:11:57,505: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:11:57,506: NOTICE disk word_cache write is over!
+2015-03-11 10:11:57,506: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:11:57,514: NOTICE page_cache synchronize start!
+2015-03-11 10:11:57,517: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:11:57,519: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:11:57,523: NOTICE disk page_cache write is over!
+2015-03-11 10:11:57,523: NOTICE page_cache synchronize over!
+2015-03-11 10:11:57,523: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:11:57,523: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:11:57,523: NOTICE title_cache synchronize over!
+2015-03-11 10:12:01,537: NOTICE server wait for connecting.........
+2015-03-11 10:12:05,511: NOTICE main thread ID: 140481338709824connect client(IP192.168.1.191:41169)
+2015-03-11 10:12:05,511: NOTICE work thread ID: 140481297876736 handle the search task 
+
+2015-03-11 10:12:07,507: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:07,507: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:07,507: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:07,509: NOTICE disk word_cache write is over!
+2015-03-11 10:12:07,509: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:07,523: NOTICE page_cache synchronize start!
+2015-03-11 10:12:07,526: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:07,528: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:07,531: NOTICE disk page_cache write is over!
+2015-03-11 10:12:07,532: NOTICE page_cache synchronize over!
+2015-03-11 10:12:07,532: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:07,532: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:07,532: NOTICE title_cache synchronize over!
+2015-03-11 10:12:08,146: NOTICE 140481297876736 ERROR server recv message length failed 
+
+2015-03-11 10:12:08,146: NOTICE work thread ID: 140481297876736 recv word is  发轮毂
+
+2015-03-11 10:12:08,146: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:12:11,621: NOTICE 140481297876736 ERROR server recv message length failed 
+
+2015-03-11 10:12:11,661: NOTICE work thread ID: 140481297876736 recv word is  法轮功
+
+2015-03-11 10:12:11,661: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:12:11,664: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 10:12:11,765: NOTICE put title_abstract in thread's page_cache
+2015-03-11 10:12:11,767: NOTICE put title_content in thread's title_cache
+2015-03-11 10:12:11,767: NOTICE work thread ID: 140481297876736 recv msg is right and has page result 
+
+2015-03-11 10:12:17,510: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:17,511: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:17,511: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:17,512: NOTICE disk word_cache write is over!
+2015-03-11 10:12:17,513: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:17,532: NOTICE page_cache synchronize start!
+2015-03-11 10:12:17,534: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:17,537: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:17,540: NOTICE disk page_cache write is over!
+2015-03-11 10:12:17,541: NOTICE page_cache synchronize over!
+2015-03-11 10:12:17,543: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:17,543: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:17,543: NOTICE title_cache synchronize over!
+2015-03-11 10:12:25,883: NOTICE 140481297876736 ERROR server recv message length failed 
+
+2015-03-11 10:12:27,513: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:27,514: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:27,514: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:27,515: NOTICE disk word_cache write is over!
+2015-03-11 10:12:27,516: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:27,543: NOTICE page_cache synchronize start!
+2015-03-11 10:12:27,546: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:27,548: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:27,552: NOTICE disk page_cache write is over!
+2015-03-11 10:12:27,552: NOTICE page_cache synchronize over!
+2015-03-11 10:12:27,578: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:27,578: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:27,578: NOTICE title_cache synchronize over!
+2015-03-11 10:12:30,426: NOTICE main thread ID: 140481338709824connect client(IP192.168.1.191:41170)
+2015-03-11 10:12:30,426: NOTICE work thread ID: 140481289484032 handle the search task 
+
+2015-03-11 10:12:31,960: NOTICE 140481297876736 ERROR server recv message length failed 
+
+2015-03-11 10:12:31,960: NOTICE work thread ID: 140481297876736client has been finish it's search_task or shutdown!
+
+2015-03-11 10:12:31,960: NOTICE work thread ID: 140481297876736 finish the search task
+
+2015-03-11 10:12:31,960: NOTICE 140481289484032 ERROR server recv message length failed 
+
+2015-03-11 10:12:31,960: NOTICE work thread ID: 140481289484032 finish the search task
+
+2015-03-11 10:12:37,516: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:37,517: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:37,517: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:37,519: NOTICE disk word_cache write is over!
+2015-03-11 10:12:37,519: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:37,578: NOTICE page_cache synchronize start!
+2015-03-11 10:12:37,581: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:37,583: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:37,587: NOTICE disk page_cache write is over!
+2015-03-11 10:12:37,588: NOTICE page_cache synchronize over!
+2015-03-11 10:12:37,623: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:37,624: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:37,624: NOTICE title_cache synchronize over!
+2015-03-11 10:12:42,952: NOTICE main thread ID: 140481338709824connect client(IP192.168.1.191:41171)
+2015-03-11 10:12:42,952: NOTICE work thread ID: 140481281091328 handle the search task 
+
+2015-03-11 10:12:44,369: NOTICE 140481281091328 ERROR server recv message length failed 
+
+2015-03-11 10:12:44,369: NOTICE work thread ID: 140481281091328 recv word is  dsadsa
+
+2015-03-11 10:12:44,369: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:12:47,520: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:47,521: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:47,521: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:47,522: NOTICE disk word_cache write is over!
+2015-03-11 10:12:47,523: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:47,624: NOTICE page_cache synchronize start!
+2015-03-11 10:12:47,626: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:47,629: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:47,632: NOTICE disk page_cache write is over!
+2015-03-11 10:12:47,639: NOTICE page_cache synchronize over!
+2015-03-11 10:12:47,684: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:47,684: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:47,684: NOTICE title_cache synchronize over!
+2015-03-11 10:12:48,628: NOTICE 140481281091328 ERROR server recv message length failed 
+
+2015-03-11 10:12:48,629: NOTICE work thread ID: 140481281091328 recv word is  法轮功
+
+2015-03-11 10:12:48,629: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:12:48,629: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:12:48,629: NOTICE work thread ID: 140481281091328 recv msg is right and has page result 
+
+2015-03-11 10:12:51,075: NOTICE 140481281091328 ERROR server recv message length failed 
+
+2015-03-11 10:12:56,371: NOTICE 140481281091328 ERROR server recv message length failed 
+
+2015-03-11 10:12:57,523: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:12:57,524: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:12:57,524: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:12:57,525: NOTICE disk word_cache write is over!
+2015-03-11 10:12:57,526: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:12:57,684: NOTICE page_cache synchronize start!
+2015-03-11 10:12:57,687: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:12:57,689: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:12:57,693: NOTICE disk page_cache write is over!
+2015-03-11 10:12:57,700: NOTICE page_cache synchronize over!
+2015-03-11 10:12:57,759: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:12:57,759: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:12:57,759: NOTICE title_cache synchronize over!
+2015-03-11 10:12:58,095: NOTICE 140481281091328 ERROR server recv message length failed 
+
+2015-03-11 10:12:58,095: NOTICE work thread ID: 140481281091328client has been finish it's search_task or shutdown!
+
+2015-03-11 10:12:58,095: NOTICE work thread ID: 140481281091328 finish the search task
+
+2015-03-11 10:16:06,919: NOTICE set cache thread log_system 
+2015-03-11 10:16:06,920: NOTICE set cache thread hash_map cache
+2015-03-11 10:16:06,920: NOTICE set page_cache thread log_system 
+2015-03-11 10:16:06,920: NOTICE set page_cache thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set page_cache thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread log_system
+2015-03-11 10:16:06,920: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread log_system
+2015-03-11 10:16:06,920: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread log_system
+2015-03-11 10:16:06,920: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread log_system
+2015-03-11 10:16:06,920: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread log_system
+2015-03-11 10:16:06,920: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,920: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread log_system
+2015-03-11 10:16:06,921: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread log_system
+2015-03-11 10:16:06,921: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread log_system
+2015-03-11 10:16:06,921: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,921: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,922: NOTICE set run thread log_system
+2015-03-11 10:16:06,922: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,922: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,922: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,922: NOTICE set run thread log_system
+2015-03-11 10:16:06,922: NOTICE set run thread's hash_map cache
+2015-03-11 10:16:06,922: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,922: NOTICE set run thread's page_cache
+2015-03-11 10:16:06,924: NOTICE disk word_cache read is over!
+2015-03-11 10:16:06,924: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:06,925: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:06,925: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:06,927: NOTICE disk word_cache write is over!
+2015-03-11 10:16:06,927: NOTICE disk page_cache read is over!
+2015-03-11 10:16:06,928: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:06,928: NOTICE page_cache synchronize start!
+2015-03-11 10:16:06,929: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:06,930: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:06,934: NOTICE disk page_cache write is over!
+2015-03-11 10:16:06,935: NOTICE page_cache synchronize over!
+2015-03-11 10:16:06,935: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:06,935: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:06,935: NOTICE title_cache synchronize over!
+2015-03-11 10:16:16,928: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:16,929: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:16,929: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:16,930: NOTICE disk word_cache write is over!
+2015-03-11 10:16:16,931: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:16,935: NOTICE page_cache synchronize start!
+2015-03-11 10:16:16,937: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:16,940: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:16,943: NOTICE disk page_cache write is over!
+2015-03-11 10:16:16,944: NOTICE page_cache synchronize over!
+2015-03-11 10:16:16,944: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:16,944: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:16,944: NOTICE title_cache synchronize over!
+2015-03-11 10:16:21,084: NOTICE server wait for connecting.........
+2015-03-11 10:16:26,932: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:26,933: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:26,933: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:26,936: NOTICE disk word_cache write is over!
+2015-03-11 10:16:26,937: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:26,945: NOTICE page_cache synchronize start!
+2015-03-11 10:16:26,949: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:26,952: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:26,956: NOTICE disk page_cache write is over!
+2015-03-11 10:16:26,957: NOTICE page_cache synchronize over!
+2015-03-11 10:16:26,957: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:26,957: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:26,957: NOTICE title_cache synchronize over!
+2015-03-11 10:16:26,975: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41172)
+2015-03-11 10:16:26,975: NOTICE work thread ID: 140104111580928 handle the search task 
+
+2015-03-11 10:16:27,894: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:27,894: NOTICE work thread ID: 140104111580928 recv word is  dsadas
+
+2015-03-11 10:16:27,894: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:16:29,832: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:29,832: NOTICE work thread ID: 140104111580928 recv word is  dasdasdas
+
+2015-03-11 10:16:29,832: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:16:32,207: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:32,207: NOTICE work thread ID: 140104111580928 recv word is  dasdsadadasd
+
+2015-03-11 10:16:32,207: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:16:35,207: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:35,207: NOTICE work thread ID: 140104111580928 recv word is  dsadsadsadsadsa
+
+2015-03-11 10:16:35,207: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:16:36,937: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:36,938: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:36,938: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:36,940: NOTICE disk word_cache write is over!
+2015-03-11 10:16:36,940: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:36,957: NOTICE page_cache synchronize start!
+2015-03-11 10:16:36,960: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:36,962: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:36,965: NOTICE disk page_cache write is over!
+2015-03-11 10:16:36,966: NOTICE page_cache synchronize over!
+2015-03-11 10:16:36,966: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:36,966: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:36,966: NOTICE title_cache synchronize over!
+2015-03-11 10:16:38,044: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:38,045: NOTICE work thread ID: 140104111580928 recv word is  dsadsadsa
+
+2015-03-11 10:16:38,045: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:16:41,789: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41173)
+2015-03-11 10:16:41,789: NOTICE work thread ID: 140104103188224 handle the search task 
+
+2015-03-11 10:16:44,036: NOTICE 140104103188224 ERROR server recv message length failed 
+
+2015-03-11 10:16:44,036: NOTICE 140104111580928 ERROR server recv message length failed 
+
+2015-03-11 10:16:44,036: NOTICE work thread ID: 140104111580928 finish the search task
+
+2015-03-11 10:16:46,940: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:46,941: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:46,941: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:46,943: NOTICE disk word_cache write is over!
+2015-03-11 10:16:46,943: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:46,966: NOTICE page_cache synchronize start!
+2015-03-11 10:16:46,969: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:46,971: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:46,975: NOTICE disk page_cache write is over!
+2015-03-11 10:16:46,975: NOTICE page_cache synchronize over!
+2015-03-11 10:16:46,975: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:46,975: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:46,975: NOTICE title_cache synchronize over!
+2015-03-11 10:16:56,202: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41174)
+2015-03-11 10:16:56,203: NOTICE work thread ID: 140104094795520 handle the search task 
+
+2015-03-11 10:16:56,943: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:16:56,944: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:16:56,944: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:16:56,947: NOTICE disk word_cache write is over!
+2015-03-11 10:16:56,948: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:16:56,975: NOTICE page_cache synchronize start!
+2015-03-11 10:16:56,978: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:16:56,980: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:16:56,984: NOTICE disk page_cache write is over!
+2015-03-11 10:16:56,984: NOTICE page_cache synchronize over!
+2015-03-11 10:16:56,984: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:16:56,984: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:16:56,984: NOTICE title_cache synchronize over!
+2015-03-11 10:17:00,685: NOTICE work thread ID: 140104103188224 recv word is  ��	
+
+2015-03-11 10:17:00,685: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:17:00,685: NOTICE 140104103188224 ERROR server recv message length failed 
+
+2015-03-11 10:17:00,685: NOTICE work thread ID: 140104103188224 finish the search task
+
+2015-03-11 10:17:00,685: NOTICE 140104094795520 ERROR server recv message length failed 
+
+2015-03-11 10:17:00,685: NOTICE work thread ID: 140104094795520 finish the search task
+
+2015-03-11 10:17:06,948: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:06,950: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:06,950: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:06,952: NOTICE disk word_cache write is over!
+2015-03-11 10:17:06,953: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:06,985: NOTICE page_cache synchronize start!
+2015-03-11 10:17:06,989: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:06,992: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:06,996: NOTICE disk page_cache write is over!
+2015-03-11 10:17:06,997: NOTICE page_cache synchronize over!
+2015-03-11 10:17:06,997: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:06,997: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:06,997: NOTICE title_cache synchronize over!
+2015-03-11 10:17:16,953: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:16,954: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:16,954: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:16,958: NOTICE disk word_cache write is over!
+2015-03-11 10:17:16,958: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:16,997: NOTICE page_cache synchronize start!
+2015-03-11 10:17:17,001: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:17,004: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:17,009: NOTICE disk page_cache write is over!
+2015-03-11 10:17:17,009: NOTICE page_cache synchronize over!
+2015-03-11 10:17:17,009: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:17,009: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:17,009: NOTICE title_cache synchronize over!
+2015-03-11 10:17:22,530: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41177)
+2015-03-11 10:17:22,530: NOTICE work thread ID: 140104086402816 handle the search task 
+
+2015-03-11 10:17:24,347: NOTICE 140104086402816 ERROR server recv message length failed 
+
+2015-03-11 10:17:24,348: NOTICE work thread ID: 140104086402816 recv word is  的撒打算的
+
+2015-03-11 10:17:24,348: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:17:25,985: NOTICE 140104086402816 ERROR server recv message length failed 
+
+2015-03-11 10:17:26,025: NOTICE work thread ID: 140104086402816 recv word is  dsada
+
+2015-03-11 10:17:26,025: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:17:26,958: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:26,959: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:26,959: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:26,961: NOTICE disk word_cache write is over!
+2015-03-11 10:17:26,961: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:27,009: NOTICE page_cache synchronize start!
+2015-03-11 10:17:27,012: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:27,014: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:27,018: NOTICE disk page_cache write is over!
+2015-03-11 10:17:27,018: NOTICE page_cache synchronize over!
+2015-03-11 10:17:27,018: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:27,018: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:27,018: NOTICE title_cache synchronize over!
+2015-03-11 10:17:36,962: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:36,962: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:36,963: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:36,965: NOTICE disk word_cache write is over!
+2015-03-11 10:17:36,965: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:37,019: NOTICE page_cache synchronize start!
+2015-03-11 10:17:37,022: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:37,024: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:37,027: NOTICE disk page_cache write is over!
+2015-03-11 10:17:37,028: NOTICE page_cache synchronize over!
+2015-03-11 10:17:37,028: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:37,028: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:37,028: NOTICE title_cache synchronize over!
+2015-03-11 10:17:46,085: NOTICE 140104086402816 ERROR server recv message length failed 
+
+2015-03-11 10:17:46,085: NOTICE work thread ID: 140104086402816 recv word is  飞机
+
+2015-03-11 10:17:46,085: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:17:46,088: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 10:17:46,712: NOTICE put title_abstract in thread's page_cache
+2015-03-11 10:17:46,733: NOTICE put title_content in thread's title_cache
+2015-03-11 10:17:46,733: NOTICE work thread ID: 140104086402816 recv msg is right and has page result 
+
+2015-03-11 10:17:46,965: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:46,966: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:46,966: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:46,968: NOTICE disk word_cache write is over!
+2015-03-11 10:17:46,969: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:47,028: NOTICE page_cache synchronize start!
+2015-03-11 10:17:47,032: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:47,034: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:47,040: NOTICE disk page_cache write is over!
+2015-03-11 10:17:47,040: NOTICE page_cache synchronize over!
+2015-03-11 10:17:47,059: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:47,059: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:47,059: NOTICE title_cache synchronize over!
+2015-03-11 10:17:53,398: NOTICE 140104086402816 ERROR server recv message length failed 
+
+2015-03-11 10:17:56,969: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:17:56,970: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:17:56,970: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:17:56,972: NOTICE disk word_cache write is over!
+2015-03-11 10:17:56,972: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:17:57,059: NOTICE page_cache synchronize start!
+2015-03-11 10:17:57,063: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:17:57,065: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:17:57,071: NOTICE disk page_cache write is over!
+2015-03-11 10:17:57,072: NOTICE page_cache synchronize over!
+2015-03-11 10:17:57,245: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:17:57,246: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:17:57,246: NOTICE title_cache synchronize over!
+2015-03-11 10:17:57,558: NOTICE 140104086402816 ERROR server recv message length failed 
+
+2015-03-11 10:17:57,558: NOTICE work thread ID: 140104086402816client has been finish it's search_task or shutdown!
+
+2015-03-11 10:17:57,558: NOTICE work thread ID: 140104086402816 finish the search task
+
+2015-03-11 10:18:06,973: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:06,974: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:06,974: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:06,977: NOTICE disk word_cache write is over!
+2015-03-11 10:18:06,978: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:07,247: NOTICE page_cache synchronize start!
+2015-03-11 10:18:07,253: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:07,255: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:07,262: NOTICE disk page_cache write is over!
+2015-03-11 10:18:07,262: NOTICE page_cache synchronize over!
+2015-03-11 10:18:07,470: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:07,471: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:07,471: NOTICE title_cache synchronize over!
+2015-03-11 10:18:10,366: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41178)
+2015-03-11 10:18:10,366: NOTICE work thread ID: 140104078010112 handle the search task 
+
+2015-03-11 10:18:14,235: NOTICE 140104078010112 ERROR server recv message length failed 
+
+2015-03-11 10:18:14,236: NOTICE work thread ID: 140104078010112 recv word is  卧槽
+
+2015-03-11 10:18:14,236: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:18:14,236: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:18:14,236: NOTICE work thread ID: 140104078010112 recv msg is right and has page result 
+
+2015-03-11 10:18:16,978: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:16,979: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:16,979: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:16,981: NOTICE disk word_cache write is over!
+2015-03-11 10:18:16,982: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:17,471: NOTICE page_cache synchronize start!
+2015-03-11 10:18:17,475: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:17,477: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:17,483: NOTICE disk page_cache write is over!
+2015-03-11 10:18:17,483: NOTICE page_cache synchronize over!
+2015-03-11 10:18:17,676: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:17,677: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:17,677: NOTICE title_cache synchronize over!
+2015-03-11 10:18:23,885: NOTICE 140104078010112 ERROR server recv message length failed 
+
+2015-03-11 10:18:26,982: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:26,983: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:26,983: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:26,985: NOTICE disk word_cache write is over!
+2015-03-11 10:18:26,985: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:27,677: NOTICE page_cache synchronize start!
+2015-03-11 10:18:27,681: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:27,684: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:27,690: NOTICE disk page_cache write is over!
+2015-03-11 10:18:27,690: NOTICE page_cache synchronize over!
+2015-03-11 10:18:27,868: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:27,868: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:27,868: NOTICE title_cache synchronize over!
+2015-03-11 10:18:35,615: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41179)
+2015-03-11 10:18:35,615: NOTICE work thread ID: 140104069617408 handle the search task 
+
+2015-03-11 10:18:36,986: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:36,986: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:36,986: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:36,989: NOTICE disk word_cache write is over!
+2015-03-11 10:18:36,989: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:37,868: NOTICE page_cache synchronize start!
+2015-03-11 10:18:37,872: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:37,874: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:37,880: NOTICE disk page_cache write is over!
+2015-03-11 10:18:37,880: NOTICE page_cache synchronize over!
+2015-03-11 10:18:38,080: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:38,081: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:38,081: NOTICE title_cache synchronize over!
+2015-03-11 10:18:39,510: NOTICE 140104069617408 ERROR server recv message length failed 
+
+2015-03-11 10:18:39,511: NOTICE 140104078010112 ERROR server recv message length failed 
+
+2015-03-11 10:18:39,511: NOTICE work thread ID: 140104078010112client has been finish it's search_task or shutdown!
+
+2015-03-11 10:18:39,511: NOTICE work thread ID: 140104078010112 finish the search task
+
+2015-03-11 10:18:39,511: ERROR 140104069617408 server recv message  failed 
+
+2015-03-11 10:18:39,511: NOTICE work thread ID: 140104069617408 finish the search task
+
+2015-03-11 10:18:46,989: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:46,991: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:46,991: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:46,995: NOTICE disk word_cache write is over!
+2015-03-11 10:18:46,995: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:48,081: NOTICE page_cache synchronize start!
+2015-03-11 10:18:48,087: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:48,090: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:48,098: NOTICE disk page_cache write is over!
+2015-03-11 10:18:48,099: NOTICE page_cache synchronize over!
+2015-03-11 10:18:48,292: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:48,292: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:48,292: NOTICE title_cache synchronize over!
+2015-03-11 10:18:56,996: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:18:56,998: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:18:56,998: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:18:57,001: NOTICE disk word_cache write is over!
+2015-03-11 10:18:57,002: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:18:58,293: NOTICE page_cache synchronize start!
+2015-03-11 10:18:58,298: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:18:58,302: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:18:58,309: NOTICE disk page_cache write is over!
+2015-03-11 10:18:58,310: NOTICE page_cache synchronize over!
+2015-03-11 10:18:58,496: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:18:58,497: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:18:58,497: NOTICE title_cache synchronize over!
+2015-03-11 10:19:03,705: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41180)
+2015-03-11 10:19:03,705: NOTICE work thread ID: 140104061224704 handle the search task 
+
+2015-03-11 10:19:05,048: NOTICE 140104061224704 ERROR server recv message length failed 
+
+2015-03-11 10:19:05,048: NOTICE work thread ID: 140104061224704 recv word is  dsadsa
+
+2015-03-11 10:19:05,048: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:19:07,002: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:19:07,003: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:19:07,003: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:19:07,007: NOTICE disk word_cache write is over!
+2015-03-11 10:19:07,008: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:19:07,548: NOTICE 140104061224704 ERROR server recv message length failed 
+
+2015-03-11 10:19:07,548: NOTICE work thread ID: 140104061224704 recv word is  dsadsadasd
+
+2015-03-11 10:19:07,548: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:19:08,497: NOTICE page_cache synchronize start!
+2015-03-11 10:19:08,501: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:19:08,503: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:19:08,509: NOTICE disk page_cache write is over!
+2015-03-11 10:19:08,509: NOTICE page_cache synchronize over!
+2015-03-11 10:19:08,686: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:19:08,686: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:19:08,686: NOTICE title_cache synchronize over!
+2015-03-11 10:19:17,008: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:19:17,009: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:19:17,009: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:19:17,011: NOTICE disk word_cache write is over!
+2015-03-11 10:19:17,011: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:19:18,686: NOTICE page_cache synchronize start!
+2015-03-11 10:19:18,690: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:19:18,693: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:19:18,698: NOTICE disk page_cache write is over!
+2015-03-11 10:19:18,699: NOTICE page_cache synchronize over!
+2015-03-11 10:19:18,884: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:19:18,885: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:19:18,885: NOTICE title_cache synchronize over!
+2015-03-11 10:19:27,011: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:19:27,012: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:19:27,012: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:19:27,014: NOTICE disk word_cache write is over!
+2015-03-11 10:19:27,015: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:19:27,965: NOTICE main thread ID: 140104152414016connect client(IP192.168.1.191:41181)
+2015-03-11 10:19:27,965: NOTICE work thread ID: 140103980676864 handle the search task 
+
+2015-03-11 10:19:28,885: NOTICE page_cache synchronize start!
+2015-03-11 10:19:28,891: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:19:28,893: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:19:28,898: NOTICE disk page_cache write is over!
+2015-03-11 10:19:28,899: NOTICE page_cache synchronize over!
+2015-03-11 10:19:29,100: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:19:29,101: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:19:29,101: NOTICE title_cache synchronize over!
+2015-03-11 10:19:29,521: NOTICE 140104061224704 ERROR server recv message length failed 
+
+2015-03-11 10:19:29,521: NOTICE work thread ID: 140104061224704 recv word is  asdasd
+
+2015-03-11 10:19:29,521: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:19:32,361: NOTICE 140104061224704 ERROR server recv message length failed 
+
+2015-03-11 10:19:32,361: NOTICE work thread ID: 140104061224704 recv word is  卧槽
+
+2015-03-11 10:19:32,361: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:19:32,362: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:19:32,362: NOTICE work thread ID: 140104061224704 recv msg is right and has page result 
+
+2015-03-11 10:19:37,015: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:19:37,016: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:19:37,016: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:19:37,018: NOTICE disk word_cache write is over!
+2015-03-11 10:19:37,018: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:19:38,761: NOTICE 140104061224704 ERROR server recv message length failed 
+
+2015-03-11 10:19:39,101: NOTICE page_cache synchronize start!
+2015-03-11 10:19:39,104: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:19:39,107: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:19:39,113: NOTICE disk page_cache write is over!
+2015-03-11 10:19:39,113: NOTICE page_cache synchronize over!
+2015-03-11 10:19:39,293: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:19:39,294: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:19:39,294: NOTICE title_cache synchronize over!
+2015-03-11 10:19:40,709: NOTICE 140103980676864 ERROR server recv message length failed 
+
+2015-03-11 10:19:40,709: NOTICE work thread ID: 140103980676864 recv word is  {"content":"client has been finish it's search or close port","type":"over!"}
+
+
+2015-03-11 10:19:40,709: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:20:13,262: NOTICE set cache thread log_system 
+2015-03-11 10:20:13,263: NOTICE set cache thread hash_map cache
+2015-03-11 10:20:13,263: NOTICE set page_cache thread log_system 
+2015-03-11 10:20:13,263: NOTICE set page_cache thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set page_cache thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,263: NOTICE set run thread log_system
+2015-03-11 10:20:13,263: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,263: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread log_system
+2015-03-11 10:20:13,264: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread log_system
+2015-03-11 10:20:13,264: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread log_system
+2015-03-11 10:20:13,264: NOTICE set run thread's hash_map cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,264: NOTICE set run thread's page_cache
+2015-03-11 10:20:13,265: NOTICE disk word_cache read is over!
+2015-03-11 10:20:13,266: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:20:13,266: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:20:13,266: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:20:13,269: NOTICE disk word_cache write is over!
+2015-03-11 10:20:13,269: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:20:13,274: NOTICE disk page_cache read is over!
+2015-03-11 10:20:13,274: NOTICE page_cache synchronize start!
+2015-03-11 10:20:13,275: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:20:13,276: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:20:13,282: NOTICE disk page_cache write is over!
+2015-03-11 10:20:13,283: NOTICE page_cache synchronize over!
+2015-03-11 10:20:13,283: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:20:13,283: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:20:13,283: NOTICE title_cache synchronize over!
+2015-03-11 10:20:23,270: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:20:23,271: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:20:23,271: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:20:23,273: NOTICE disk word_cache write is over!
+2015-03-11 10:20:23,273: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:20:23,284: NOTICE page_cache synchronize start!
+2015-03-11 10:20:23,287: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:20:23,289: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:20:23,295: NOTICE disk page_cache write is over!
+2015-03-11 10:20:23,296: NOTICE page_cache synchronize over!
+2015-03-11 10:20:23,296: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:20:23,296: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:20:23,296: NOTICE title_cache synchronize over!
+2015-03-11 10:20:27,316: NOTICE server wait for connecting.........
+2015-03-11 10:20:33,274: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:20:33,276: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:20:33,276: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:20:33,280: NOTICE disk word_cache write is over!
+2015-03-11 10:20:33,281: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:20:33,296: NOTICE page_cache synchronize start!
+2015-03-11 10:20:33,302: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:20:33,304: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:20:33,311: NOTICE disk page_cache write is over!
+2015-03-11 10:20:33,312: NOTICE page_cache synchronize over!
+2015-03-11 10:20:33,312: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:20:33,312: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:20:33,312: NOTICE title_cache synchronize over!
+2015-03-11 10:20:43,281: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:20:43,283: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:20:43,283: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:20:43,286: NOTICE disk word_cache write is over!
+2015-03-11 10:20:43,287: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:20:43,313: NOTICE page_cache synchronize start!
+2015-03-11 10:20:43,319: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:20:43,321: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:20:43,328: NOTICE disk page_cache write is over!
+2015-03-11 10:20:43,328: NOTICE page_cache synchronize over!
+2015-03-11 10:20:43,328: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:20:43,328: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:20:43,328: NOTICE title_cache synchronize over!
+2015-03-11 10:20:46,403: NOTICE main thread ID: 139825481787200connect client(IP192.168.1.191:41183)
+2015-03-11 10:20:46,403: NOTICE work thread ID: 139825440954112 handle the search task 
+
+2015-03-11 10:20:47,533: NOTICE 139825440954112 ERROR server recv message length failed 
+
+2015-03-11 10:20:47,533: NOTICE work thread ID: 139825440954112 recv word is  dasdas
+
+2015-03-11 10:20:47,533: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:20:50,411: NOTICE 139825440954112 ERROR server recv message length failed 
+
+2015-03-11 10:20:50,411: NOTICE work thread ID: 139825440954112 recv word is  卧槽
+
+2015-03-11 10:20:50,411: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:20:50,412: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:20:50,412: NOTICE work thread ID: 139825440954112 recv msg is right and has page result 
+
+2015-03-11 10:20:53,287: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:20:53,289: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:20:53,289: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:20:53,291: NOTICE disk word_cache write is over!
+2015-03-11 10:20:53,292: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:20:53,328: NOTICE page_cache synchronize start!
+2015-03-11 10:20:53,332: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:20:53,334: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:20:53,340: NOTICE disk page_cache write is over!
+2015-03-11 10:20:53,341: NOTICE page_cache synchronize over!
+2015-03-11 10:20:53,341: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:20:53,341: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:20:53,341: NOTICE title_cache synchronize over!
+2015-03-11 10:20:53,924: NOTICE 139825440954112 ERROR server recv message length failed 
+
+2015-03-11 10:20:59,786: NOTICE 139825440954112 ERROR server recv message length failed 
+
+2015-03-11 10:21:01,721: NOTICE 139825440954112 ERROR server recv message length failed 
+
+2015-03-11 10:21:01,721: NOTICE work thread ID: 139825440954112client has been finish it's search_task or shutdown!
+
+2015-03-11 10:21:01,721: NOTICE work thread ID: 139825440954112 finish the search task
+
+2015-03-11 10:21:03,293: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:03,295: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:03,295: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:03,298: NOTICE disk word_cache write is over!
+2015-03-11 10:21:03,298: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:03,341: NOTICE page_cache synchronize start!
+2015-03-11 10:21:03,347: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:03,349: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:03,356: NOTICE disk page_cache write is over!
+2015-03-11 10:21:03,356: NOTICE page_cache synchronize over!
+2015-03-11 10:21:03,356: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:21:03,357: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:21:03,357: NOTICE title_cache synchronize over!
+2015-03-11 10:21:04,744: NOTICE main thread ID: 139825481787200connect client(IP192.168.1.191:41184)
+2015-03-11 10:21:04,744: NOTICE work thread ID: 139825424168704 handle the search task 
+
+2015-03-11 10:21:06,425: NOTICE 139825424168704 ERROR server recv message length failed 
+
+2015-03-11 10:21:06,425: NOTICE work thread ID: 139825424168704 recv word is  dasdas
+
+2015-03-11 10:21:06,425: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:21:09,099: NOTICE 139825424168704 ERROR server recv message length failed 
+
+2015-03-11 10:21:09,139: NOTICE work thread ID: 139825424168704 recv word is  dsadasdas
+
+2015-03-11 10:21:09,139: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:21:12,536: NOTICE 139825424168704 ERROR server recv message length failed 
+
+2015-03-11 10:21:12,536: NOTICE work thread ID: 139825424168704 recv word is  大
+
+2015-03-11 10:21:12,536: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:21:12,541: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 10:21:13,299: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:13,300: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:13,300: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:13,302: NOTICE disk word_cache write is over!
+2015-03-11 10:21:13,302: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:13,357: NOTICE page_cache synchronize start!
+2015-03-11 10:21:13,360: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:13,363: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:13,369: NOTICE disk page_cache write is over!
+2015-03-11 10:21:13,370: NOTICE page_cache synchronize over!
+2015-03-11 10:21:13,370: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:21:13,370: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:21:13,370: NOTICE title_cache synchronize over!
+2015-03-11 10:21:23,303: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:23,304: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:23,304: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:23,306: NOTICE disk word_cache write is over!
+2015-03-11 10:21:23,307: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:23,370: NOTICE page_cache synchronize start!
+2015-03-11 10:21:23,374: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:23,377: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:23,383: NOTICE disk page_cache write is over!
+2015-03-11 10:21:23,383: NOTICE page_cache synchronize over!
+2015-03-11 10:21:23,383: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:21:23,383: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:21:23,383: NOTICE title_cache synchronize over!
+2015-03-11 10:21:33,307: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:33,308: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:33,308: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:33,310: NOTICE disk word_cache write is over!
+2015-03-11 10:21:33,311: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:33,383: NOTICE page_cache synchronize start!
+2015-03-11 10:21:33,387: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:33,390: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:33,396: NOTICE disk page_cache write is over!
+2015-03-11 10:21:33,396: NOTICE page_cache synchronize over!
+2015-03-11 10:21:33,396: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:21:33,397: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:21:33,397: NOTICE title_cache synchronize over!
+2015-03-11 10:21:35,240: NOTICE put title_abstract in thread's page_cache
+2015-03-11 10:21:36,054: NOTICE put title_content in thread's title_cache
+2015-03-11 10:21:36,057: NOTICE work thread ID: 139825424168704 recv msg is right and has page result 
+
+2015-03-11 10:21:36,057: NOTICE 139825424168704 ERROR server recv message length failed 
+
+2015-03-11 10:21:36,841: NOTICE main thread ID: 139825481787200connect client(IP192.168.1.191:41185)
+2015-03-11 10:21:36,841: NOTICE work thread ID: 139825432561408 handle the search task 
+
+2015-03-11 10:21:38,249: NOTICE 139825424168704 ERROR server recv message length failed 
+
+2015-03-11 10:21:38,249: NOTICE work thread ID: 139825424168704client has been finish it's search_task or shutdown!
+
+2015-03-11 10:21:38,249: NOTICE work thread ID: 139825424168704 finish the search task
+
+2015-03-11 10:21:38,249: NOTICE 139825432561408 ERROR server recv message length failed 
+
+2015-03-11 10:21:38,249: NOTICE work thread ID: 139825432561408 finish the search task
+
+2015-03-11 10:21:43,312: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:43,313: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:43,313: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:43,317: NOTICE disk word_cache write is over!
+2015-03-11 10:21:43,317: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:43,397: NOTICE page_cache synchronize start!
+2015-03-11 10:21:43,409: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:43,412: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:43,522: NOTICE disk page_cache write is over!
+2015-03-11 10:21:43,528: NOTICE page_cache synchronize over!
+2015-03-11 10:21:44,356: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:21:44,380: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:21:44,380: NOTICE title_cache synchronize over!
+2015-03-11 10:21:53,319: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:21:53,320: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:21:53,320: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:21:53,324: NOTICE disk word_cache write is over!
+2015-03-11 10:21:53,324: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:21:54,381: NOTICE page_cache synchronize start!
+2015-03-11 10:21:54,437: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:21:54,439: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:21:54,552: NOTICE disk page_cache write is over!
+2015-03-11 10:21:54,558: NOTICE page_cache synchronize over!
+2015-03-11 10:22:01,855: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:22:01,876: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:22:01,876: NOTICE title_cache synchronize over!
+2015-03-11 10:22:03,325: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:22:03,326: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:22:03,326: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:22:03,330: NOTICE disk word_cache write is over!
+2015-03-11 10:22:03,330: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:22:11,876: NOTICE page_cache synchronize start!
+2015-03-11 10:22:11,928: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:22:11,931: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:22:12,040: NOTICE disk page_cache write is over!
+2015-03-11 10:22:12,046: NOTICE page_cache synchronize over!
+2015-03-11 10:22:13,330: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:22:13,331: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:22:13,331: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:22:13,334: NOTICE disk word_cache write is over!
+2015-03-11 10:22:13,334: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:22:19,610: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:22:19,632: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:22:19,632: NOTICE title_cache synchronize over!
+2015-03-11 10:22:23,334: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:22:23,336: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:22:23,336: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:22:23,340: NOTICE disk word_cache write is over!
+2015-03-11 10:22:23,340: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:22:29,633: NOTICE page_cache synchronize start!
+2015-03-11 10:22:29,685: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:22:29,689: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:22:29,799: NOTICE disk page_cache write is over!
+2015-03-11 10:22:29,808: NOTICE page_cache synchronize over!
+2015-03-11 10:28:12,360: NOTICE set cache thread log_system 
+2015-03-11 10:28:12,360: NOTICE set cache thread hash_map cache
+2015-03-11 10:28:12,361: NOTICE set page_cache thread log_system 
+2015-03-11 10:28:12,361: NOTICE set page_cache thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set page_cache thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread log_system
+2015-03-11 10:28:12,361: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,361: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,362: NOTICE set run thread log_system
+2015-03-11 10:28:12,362: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,362: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,362: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,362: NOTICE set run thread log_system
+2015-03-11 10:28:12,362: NOTICE set run thread's hash_map cache
+2015-03-11 10:28:12,362: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,362: NOTICE set run thread's page_cache
+2015-03-11 10:28:12,363: NOTICE disk word_cache read is over!
+2015-03-11 10:28:12,364: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:28:12,365: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:28:12,365: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:28:12,367: NOTICE disk word_cache write is over!
+2015-03-11 10:28:12,368: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:28:12,460: NOTICE disk page_cache read is over!
+2015-03-11 10:28:12,466: NOTICE page_cache synchronize start!
+2015-03-11 10:28:12,467: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:28:12,470: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:28:12,581: NOTICE disk page_cache write is over!
+2015-03-11 10:28:12,589: NOTICE page_cache synchronize over!
+2015-03-11 10:28:12,589: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:28:12,589: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:28:12,589: NOTICE title_cache synchronize over!
+2015-03-11 10:28:22,368: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:28:22,369: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:28:22,369: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:28:22,371: NOTICE disk word_cache write is over!
+2015-03-11 10:28:22,372: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:28:22,590: NOTICE page_cache synchronize start!
+2015-03-11 10:28:22,642: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:28:22,644: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:28:22,750: NOTICE disk page_cache write is over!
+2015-03-11 10:28:22,756: NOTICE page_cache synchronize over!
+2015-03-11 10:28:22,756: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:28:22,756: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:28:22,756: NOTICE title_cache synchronize over!
+2015-03-11 10:28:26,739: NOTICE server wait for connecting.........
+2015-03-11 10:28:29,191: NOTICE main thread ID: 140223676925760connect client(IP192.168.1.191:41186)
+2015-03-11 10:28:29,191: NOTICE work thread ID: 140223568672512 handle the search task 
+
+2015-03-11 10:28:32,326: NOTICE 140223568672512 ERROR server recv message length failed 
+
+2015-03-11 10:28:32,326: NOTICE work thread ID: 140223568672512 recv word is  李鸿章
+
+2015-03-11 10:28:32,326: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:28:32,329: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:28:32,329: NOTICE work thread ID: 140223568672512 recv msg is right and has page result 
+
+2015-03-11 10:28:32,372: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:28:32,373: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:28:32,373: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:28:32,377: NOTICE disk word_cache write is over!
+2015-03-11 10:28:32,377: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:28:32,756: NOTICE page_cache synchronize start!
+2015-03-11 10:28:32,801: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:28:32,803: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:28:32,911: NOTICE disk page_cache write is over!
+2015-03-11 10:28:32,916: NOTICE page_cache synchronize over!
+2015-03-11 10:28:32,916: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:28:32,916: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:28:32,916: NOTICE title_cache synchronize over!
+2015-03-11 10:28:42,378: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:28:42,379: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:28:42,379: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:28:42,383: NOTICE disk word_cache write is over!
+2015-03-11 10:28:42,383: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:28:42,916: NOTICE page_cache synchronize start!
+2015-03-11 10:28:42,968: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:28:42,972: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:28:43,075: NOTICE disk page_cache write is over!
+2015-03-11 10:28:43,080: NOTICE page_cache synchronize over!
+2015-03-11 10:28:43,080: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:28:43,080: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:28:43,080: NOTICE title_cache synchronize over!
+2015-03-11 10:28:52,384: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:28:52,384: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:28:52,384: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:28:52,387: NOTICE disk word_cache write is over!
+2015-03-11 10:28:52,387: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:28:53,080: NOTICE page_cache synchronize start!
+2015-03-11 10:28:53,128: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:28:53,131: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:28:53,234: NOTICE disk page_cache write is over!
+2015-03-11 10:28:53,240: NOTICE page_cache synchronize over!
+2015-03-11 10:28:53,240: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:28:53,240: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:28:53,240: NOTICE title_cache synchronize over!
+2015-03-11 10:29:02,387: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:02,388: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:02,388: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:02,391: NOTICE disk word_cache write is over!
+2015-03-11 10:29:02,391: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:03,240: NOTICE page_cache synchronize start!
+2015-03-11 10:29:03,293: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:03,295: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:03,401: NOTICE disk page_cache write is over!
+2015-03-11 10:29:03,406: NOTICE page_cache synchronize over!
+2015-03-11 10:29:03,406: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:03,406: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:03,406: NOTICE title_cache synchronize over!
+2015-03-11 10:29:10,189: NOTICE 140223568672512 ERROR server recv message length failed 
+
+2015-03-11 10:29:12,391: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:12,392: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:12,392: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:12,394: NOTICE disk word_cache write is over!
+2015-03-11 10:29:12,395: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:12,586: NOTICE 140223568672512 ERROR server recv message length failed 
+
+2015-03-11 10:29:12,587: NOTICE work thread ID: 140223568672512client has been finish it's search_task or shutdown!
+
+2015-03-11 10:29:12,587: NOTICE work thread ID: 140223568672512 finish the search task
+
+2015-03-11 10:29:13,407: NOTICE page_cache synchronize start!
+2015-03-11 10:29:13,457: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:13,459: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:13,563: NOTICE disk page_cache write is over!
+2015-03-11 10:29:13,568: NOTICE page_cache synchronize over!
+2015-03-11 10:29:13,568: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:13,568: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:13,568: NOTICE title_cache synchronize over!
+2015-03-11 10:29:14,944: NOTICE main thread ID: 140223676925760connect client(IP192.168.1.191:41187)
+2015-03-11 10:29:14,945: NOTICE work thread ID: 140223560279808 handle the search task 
+
+2015-03-11 10:29:22,395: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:22,396: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:22,396: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:22,398: NOTICE disk word_cache write is over!
+2015-03-11 10:29:22,398: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:23,569: NOTICE page_cache synchronize start!
+2015-03-11 10:29:23,613: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:23,615: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:23,726: NOTICE disk page_cache write is over!
+2015-03-11 10:29:23,732: NOTICE page_cache synchronize over!
+2015-03-11 10:29:23,732: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:23,732: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:23,732: NOTICE title_cache synchronize over!
+2015-03-11 10:29:25,702: NOTICE 140223560279808 ERROR server recv message length failed 
+
+2015-03-11 10:29:25,702: NOTICE work thread ID: 140223560279808 recv word is  �李鸿章
+
+2015-03-11 10:29:25,702: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:29:30,556: NOTICE main thread ID: 140223676925760connect client(IP192.168.1.191:41188)
+2015-03-11 10:29:30,556: NOTICE work thread ID: 140223551887104 handle the search task 
+
+2015-03-11 10:29:32,398: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:32,399: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:32,399: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:32,402: NOTICE disk word_cache write is over!
+2015-03-11 10:29:32,402: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:33,732: NOTICE page_cache synchronize start!
+2015-03-11 10:29:33,778: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:33,780: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:33,884: NOTICE disk page_cache write is over!
+2015-03-11 10:29:33,889: NOTICE page_cache synchronize over!
+2015-03-11 10:29:33,889: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:33,889: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:33,889: NOTICE title_cache synchronize over!
+2015-03-11 10:29:42,402: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:42,403: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:42,403: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:42,406: NOTICE disk word_cache write is over!
+2015-03-11 10:29:42,406: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:43,727: NOTICE 140223551887104 ERROR server recv message length failed 
+
+2015-03-11 10:29:43,727: NOTICE 140223560279808 ERROR server recv message length failed 
+
+2015-03-11 10:29:43,728: NOTICE work thread ID: 140223560279808 finish the search task
+
+2015-03-11 10:29:43,889: NOTICE page_cache synchronize start!
+2015-03-11 10:29:43,935: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:43,937: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:44,048: NOTICE disk page_cache write is over!
+2015-03-11 10:29:44,054: NOTICE page_cache synchronize over!
+2015-03-11 10:29:44,054: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:44,054: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:44,054: NOTICE title_cache synchronize over!
+2015-03-11 10:29:58,954: NOTICE set cache thread log_system 
+2015-03-11 10:29:58,954: NOTICE set cache thread hash_map cache
+2015-03-11 10:29:58,954: NOTICE set page_cache thread log_system 
+2015-03-11 10:29:58,954: NOTICE set page_cache thread's page_cache
+2015-03-11 10:29:58,954: NOTICE set page_cache thread's page_cache
+2015-03-11 10:29:58,954: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread log_system
+2015-03-11 10:29:58,955: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,955: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread log_system
+2015-03-11 10:29:58,956: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread log_system
+2015-03-11 10:29:58,956: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread log_system
+2015-03-11 10:29:58,956: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread log_system
+2015-03-11 10:29:58,956: NOTICE set run thread's hash_map cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,956: NOTICE set run thread's page_cache
+2015-03-11 10:29:58,959: NOTICE disk word_cache read is over!
+2015-03-11 10:29:58,959: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:29:58,960: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:29:58,960: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:29:58,964: NOTICE disk word_cache write is over!
+2015-03-11 10:29:58,967: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:29:59,051: NOTICE disk page_cache read is over!
+2015-03-11 10:29:59,056: NOTICE page_cache synchronize start!
+2015-03-11 10:29:59,057: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:29:59,060: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:29:59,172: NOTICE disk page_cache write is over!
+2015-03-11 10:29:59,177: NOTICE page_cache synchronize over!
+2015-03-11 10:29:59,177: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:29:59,177: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:29:59,177: NOTICE title_cache synchronize over!
+2015-03-11 10:30:08,967: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:30:08,968: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:30:08,968: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:30:08,971: NOTICE disk word_cache write is over!
+2015-03-11 10:30:08,971: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:30:09,177: NOTICE page_cache synchronize start!
+2015-03-11 10:30:09,233: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:30:09,235: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:30:09,343: NOTICE disk page_cache write is over!
+2015-03-11 10:30:09,348: NOTICE page_cache synchronize over!
+2015-03-11 10:30:09,348: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:30:09,348: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:30:09,348: NOTICE title_cache synchronize over!
+2015-03-11 10:30:13,493: NOTICE server wait for connecting.........
+2015-03-11 10:30:18,971: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:30:18,973: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:30:18,973: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:30:18,977: NOTICE disk word_cache write is over!
+2015-03-11 10:30:18,977: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:30:19,350: NOTICE page_cache synchronize start!
+2015-03-11 10:30:19,398: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:30:19,401: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:30:19,503: NOTICE disk page_cache write is over!
+2015-03-11 10:30:19,509: NOTICE page_cache synchronize over!
+2015-03-11 10:30:19,509: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:30:19,509: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:30:19,509: NOTICE title_cache synchronize over!
+2015-03-11 10:30:19,559: NOTICE main thread ID: 140413914298176connect client(IP192.168.1.191:41189)
+2015-03-11 10:30:19,560: NOTICE work thread ID: 140413873465088 handle the search task 
+
+2015-03-11 10:30:24,089: NOTICE 140413873465088 ERROR server recv message length failed 
+
+2015-03-11 10:30:24,089: NOTICE work thread ID: 140413873465088 recv word is  光绪
+
+2015-03-11 10:30:24,089: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:30:24,091: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:30:24,091: NOTICE work thread ID: 140413873465088 recv msg is right and has page result 
+
+2015-03-11 10:30:28,977: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:30:28,978: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:30:28,978: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:30:28,981: NOTICE disk word_cache write is over!
+2015-03-11 10:30:28,981: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:30:29,509: NOTICE page_cache synchronize start!
+2015-03-11 10:30:29,561: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:30:29,564: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:30:29,670: NOTICE disk page_cache write is over!
+2015-03-11 10:30:29,675: NOTICE page_cache synchronize over!
+2015-03-11 10:30:29,675: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:30:29,675: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:30:29,675: NOTICE title_cache synchronize over!
+2015-03-11 10:30:29,989: NOTICE 140413873465088 ERROR server recv message length failed 
+
+2015-03-11 10:30:34,658: NOTICE main thread ID: 140413914298176connect client(IP192.168.1.191:41190)
+2015-03-11 10:30:34,658: NOTICE work thread ID: 140413865072384 handle the search task 
+
+2015-03-11 10:30:38,840: NOTICE 140413873465088 ERROR server recv message length failed 
+
+2015-03-11 10:30:38,840: NOTICE work thread ID: 140413873465088client has been finish it's search_task or shutdown!
+
+2015-03-11 10:30:38,840: NOTICE work thread ID: 140413873465088 finish the search task
+
+2015-03-11 10:30:38,840: NOTICE 140413865072384 ERROR server recv message length failed 
+
+2015-03-11 10:30:38,840: NOTICE work thread ID: 140413865072384 finish the search task
+
+2015-03-11 10:30:38,981: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:30:38,982: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:30:38,982: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:30:38,984: NOTICE disk word_cache write is over!
+2015-03-11 10:30:38,984: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:30:39,675: NOTICE page_cache synchronize start!
+2015-03-11 10:30:39,723: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:30:39,725: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:30:39,827: NOTICE disk page_cache write is over!
+2015-03-11 10:30:39,833: NOTICE page_cache synchronize over!
+2015-03-11 10:30:39,833: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:30:39,833: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:30:39,833: NOTICE title_cache synchronize over!
+2015-03-11 10:31:04,357: ERROR server socket binding failed
+2015-03-11 10:31:11,782: NOTICE set cache thread log_system 
+2015-03-11 10:31:11,783: NOTICE set cache thread hash_map cache
+2015-03-11 10:31:11,783: NOTICE set page_cache thread log_system 
+2015-03-11 10:31:11,783: NOTICE set page_cache thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set page_cache thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread log_system
+2015-03-11 10:31:11,783: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread log_system
+2015-03-11 10:31:11,783: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread log_system
+2015-03-11 10:31:11,783: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread log_system
+2015-03-11 10:31:11,783: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,783: NOTICE disk word_cache read is failed,try again!
+2015-03-11 10:31:11,783: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:31:11,784: NOTICE set run thread log_system
+2015-03-11 10:31:11,784: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,784: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,784: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,784: NOTICE disk page_cache read is failed!
+2015-03-11 10:31:11,784: NOTICE page_cache synchronize start!
+2015-03-11 10:31:11,784: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:31:11,784: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:31:11,785: NOTICE set run thread log_system
+2015-03-11 10:31:11,785: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread log_system
+2015-03-11 10:31:11,785: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread log_system
+2015-03-11 10:31:11,785: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread log_system
+2015-03-11 10:31:11,785: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,785: NOTICE disk word_cache write is over!
+2015-03-11 10:31:11,785: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:31:11,786: NOTICE set run thread log_system
+2015-03-11 10:31:11,786: NOTICE set run thread's hash_map cache
+2015-03-11 10:31:11,786: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,786: NOTICE set run thread's page_cache
+2015-03-11 10:31:11,787: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:31:11,787: NOTICE disk page_cache write is over!
+2015-03-11 10:31:11,787: NOTICE page_cache synchronize over!
+2015-03-11 10:31:11,787: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:31:11,787: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:31:11,787: NOTICE title_cache synchronize over!
+2015-03-11 10:31:21,786: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:31:21,787: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:31:21,787: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:31:21,787: NOTICE disk word_cache write is over!
+2015-03-11 10:31:21,787: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:31:21,787: NOTICE page_cache synchronize start!
+2015-03-11 10:31:21,788: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:31:21,789: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:31:21,790: NOTICE disk page_cache write is over!
+2015-03-11 10:31:21,790: NOTICE page_cache synchronize over!
+2015-03-11 10:31:21,790: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:31:21,790: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:31:21,790: NOTICE title_cache synchronize over!
+2015-03-11 10:31:26,060: NOTICE server wait for connecting.........
+2015-03-11 10:31:31,788: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:31:31,790: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:31:31,790: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:31:31,790: NOTICE page_cache synchronize start!
+2015-03-11 10:31:31,790: NOTICE disk word_cache write is over!
+2015-03-11 10:31:31,791: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:31:31,792: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:31:31,793: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:31:31,794: NOTICE disk page_cache write is over!
+2015-03-11 10:31:31,794: NOTICE page_cache synchronize over!
+2015-03-11 10:31:31,794: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:31:31,794: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:31:31,794: NOTICE title_cache synchronize over!
+2015-03-11 10:31:41,791: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:31:41,793: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:31:41,793: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:31:41,793: NOTICE disk word_cache write is over!
+2015-03-11 10:31:41,793: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:31:41,794: NOTICE page_cache synchronize start!
+2015-03-11 10:31:41,796: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:31:41,797: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:31:41,798: NOTICE disk page_cache write is over!
+2015-03-11 10:31:41,798: NOTICE page_cache synchronize over!
+2015-03-11 10:31:41,798: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:31:41,798: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:31:41,798: NOTICE title_cache synchronize over!
+2015-03-11 10:31:41,871: NOTICE main thread ID: 140721174247232connect client(IP192.168.1.191:46061)
+2015-03-11 10:31:41,871: NOTICE work thread ID: 140721125021440 handle the search task 
+
+2015-03-11 10:31:45,752: NOTICE 140721125021440 ERROR server recv message length failed 
+
+2015-03-11 10:31:45,752: NOTICE work thread ID: 140721125021440 recv word is  李鸿章
+
+2015-03-11 10:31:45,752: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:31:45,755: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 10:31:45,883: NOTICE put title_abstract in thread's page_cache
+2015-03-11 10:31:45,889: NOTICE put title_content in thread's title_cache
+2015-03-11 10:31:45,889: NOTICE work thread ID: 140721125021440 recv msg is right and has page result 
+
+2015-03-11 10:31:51,065: NOTICE 140721125021440 ERROR server recv message length failed 
+
+2015-03-11 10:31:51,793: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:31:51,794: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:31:51,794: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:31:51,795: NOTICE disk word_cache write is over!
+2015-03-11 10:31:51,795: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:31:51,798: NOTICE page_cache synchronize start!
+2015-03-11 10:31:51,799: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:31:51,800: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:31:51,801: NOTICE disk page_cache write is over!
+2015-03-11 10:31:51,801: NOTICE page_cache synchronize over!
+2015-03-11 10:31:51,807: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:31:51,808: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:31:51,808: NOTICE title_cache synchronize over!
+2015-03-11 10:32:01,795: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:32:01,796: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:32:01,796: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:32:01,796: NOTICE disk word_cache write is over!
+2015-03-11 10:32:01,796: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:32:01,808: NOTICE page_cache synchronize start!
+2015-03-11 10:32:01,809: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:32:01,811: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:32:01,812: NOTICE disk page_cache write is over!
+2015-03-11 10:32:01,812: NOTICE page_cache synchronize over!
+2015-03-11 10:32:01,881: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:32:01,881: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:32:01,881: NOTICE title_cache synchronize over!
+2015-03-11 10:37:27,997: NOTICE set cache thread log_system 
+2015-03-11 10:37:27,997: NOTICE set cache thread hash_map cache
+2015-03-11 10:37:27,998: NOTICE set page_cache thread log_system 
+2015-03-11 10:37:27,998: NOTICE set page_cache thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set page_cache thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread log_system
+2015-03-11 10:37:27,998: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread log_system
+2015-03-11 10:37:27,998: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread log_system
+2015-03-11 10:37:27,998: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread log_system
+2015-03-11 10:37:27,998: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,998: NOTICE disk word_cache read is over!
+2015-03-11 10:37:27,998: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:37:27,998: NOTICE disk page_cache read is over!
+2015-03-11 10:37:27,998: NOTICE page_cache synchronize start!
+2015-03-11 10:37:27,999: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:37:27,999: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:37:27,999: NOTICE disk word_cache write is over!
+2015-03-11 10:37:27,999: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:37:27,999: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:37:27,998: NOTICE set run thread log_system
+2015-03-11 10:37:27,999: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,999: NOTICE set run thread log_system
+2015-03-11 10:37:27,999: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,999: NOTICE set run thread log_system
+2015-03-11 10:37:27,999: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:27,999: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread log_system
+2015-03-11 10:37:28,000: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread log_system
+2015-03-11 10:37:28,000: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread log_system
+2015-03-11 10:37:28,000: NOTICE set run thread's hash_map cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,000: NOTICE set run thread's page_cache
+2015-03-11 10:37:28,001: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:37:28,001: NOTICE disk page_cache write is over!
+2015-03-11 10:37:28,002: NOTICE page_cache synchronize over!
+2015-03-11 10:37:28,002: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:37:28,002: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:37:28,002: NOTICE title_cache synchronize over!
+2015-03-11 10:37:37,999: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:37:38,000: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:37:38,000: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:37:38,000: NOTICE disk word_cache write is over!
+2015-03-11 10:37:38,001: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:37:38,002: NOTICE page_cache synchronize start!
+2015-03-11 10:37:38,003: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:37:38,005: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:37:38,006: NOTICE disk page_cache write is over!
+2015-03-11 10:37:38,006: NOTICE page_cache synchronize over!
+2015-03-11 10:37:38,006: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:37:38,006: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:37:38,006: NOTICE title_cache synchronize over!
+2015-03-11 10:37:42,181: NOTICE server wait for connecting.........
+2015-03-11 10:37:48,002: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:37:48,003: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:37:48,003: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:37:48,004: NOTICE disk word_cache write is over!
+2015-03-11 10:37:48,004: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:37:48,007: NOTICE page_cache synchronize start!
+2015-03-11 10:37:48,009: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:37:48,012: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:37:48,012: NOTICE disk page_cache write is over!
+2015-03-11 10:37:48,013: NOTICE page_cache synchronize over!
+2015-03-11 10:37:48,013: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:37:48,013: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:37:48,013: NOTICE title_cache synchronize over!
+2015-03-11 10:37:58,005: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:37:58,006: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:37:58,006: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:37:58,007: NOTICE disk word_cache write is over!
+2015-03-11 10:37:58,007: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:37:58,013: NOTICE page_cache synchronize start!
+2015-03-11 10:37:58,015: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:37:58,018: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:37:58,019: NOTICE disk page_cache write is over!
+2015-03-11 10:37:58,019: NOTICE page_cache synchronize over!
+2015-03-11 10:37:58,019: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:37:58,019: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:37:58,019: NOTICE title_cache synchronize over!
+2015-03-11 10:38:08,008: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:38:08,010: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:38:08,010: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:38:08,010: NOTICE disk word_cache write is over!
+2015-03-11 10:38:08,011: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:38:08,020: NOTICE page_cache synchronize start!
+2015-03-11 10:38:08,022: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:38:08,025: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:38:08,026: NOTICE disk page_cache write is over!
+2015-03-11 10:38:08,026: NOTICE page_cache synchronize over!
+2015-03-11 10:38:08,026: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:38:08,026: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:38:08,026: NOTICE title_cache synchronize over!
+2015-03-11 10:38:09,811: NOTICE main thread ID: 139912833181504connect client(IP192.168.1.191:46063)
+2015-03-11 10:38:09,811: NOTICE work thread ID: 139912720414464 handle the search task 
+
+2015-03-11 10:38:12,917: NOTICE 139912720414464 ERROR server recv message length failed 
+
+2015-03-11 10:38:12,917: NOTICE work thread ID: 139912720414464 recv word is  李鸿章
+
+2015-03-11 10:38:12,917: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:38:12,920: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 10:38:12,920: NOTICE work thread ID: 139912720414464 recv msg is right and has page result 
+
+2015-03-11 10:38:18,011: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:38:18,012: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:38:18,012: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:38:18,012: NOTICE disk word_cache write is over!
+2015-03-11 10:38:18,012: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:38:18,026: NOTICE page_cache synchronize start!
+2015-03-11 10:38:18,027: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:38:18,030: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:38:18,030: NOTICE disk page_cache write is over!
+2015-03-11 10:38:18,030: NOTICE page_cache synchronize over!
+2015-03-11 10:38:18,031: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:38:18,031: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:38:18,031: NOTICE title_cache synchronize over!
+2015-03-11 10:38:19,281: NOTICE 139912720414464 ERROR server recv message length failed 
+
+2015-03-11 10:38:24,693: NOTICE 139912720414464 ERROR server recv message length failed 
+
+2015-03-11 10:38:28,012: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:38:28,013: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:38:28,013: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:38:28,013: NOTICE disk word_cache write is over!
+2015-03-11 10:38:28,014: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:38:28,031: NOTICE page_cache synchronize start!
+2015-03-11 10:38:28,032: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:38:28,034: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:38:28,035: NOTICE disk page_cache write is over!
+2015-03-11 10:38:28,035: NOTICE page_cache synchronize over!
+2015-03-11 10:38:28,035: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:38:28,035: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:38:28,035: NOTICE title_cache synchronize over!
+2015-03-11 10:38:34,933: NOTICE main thread ID: 139912833181504connect client(IP192.168.1.191:46064)
+2015-03-11 10:38:34,933: NOTICE work thread ID: 139912703629056 handle the search task 
+
+2015-03-11 10:38:38,014: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:38:38,015: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:38:38,015: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:38:38,015: NOTICE disk word_cache write is over!
+2015-03-11 10:38:38,015: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:38:38,035: NOTICE page_cache synchronize start!
+2015-03-11 10:38:38,036: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:38:38,038: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:38:38,039: NOTICE disk page_cache write is over!
+2015-03-11 10:38:38,039: NOTICE page_cache synchronize over!
+2015-03-11 10:38:38,039: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:38:38,039: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:38:38,039: NOTICE title_cache synchronize over!
+2015-03-11 10:38:39,168: NOTICE 139912720414464 ERROR server recv message length failed 
+
+2015-03-11 10:38:39,168: NOTICE work thread ID: 139912720414464client has been finish it's search_task or shutdown!
+
+2015-03-11 10:38:39,168: NOTICE work thread ID: 139912720414464 finish the search task
+
+2015-03-11 10:38:39,168: NOTICE 139912703629056 ERROR server recv message length failed 
+
+2015-03-11 10:38:39,168: NOTICE work thread ID: 139912703629056 finish the search task
+
+2015-03-11 10:38:51,516: NOTICE set cache thread log_system 
+2015-03-11 10:38:51,517: NOTICE set cache thread hash_map cache
+2015-03-11 10:38:51,517: NOTICE set page_cache thread log_system 
+2015-03-11 10:38:51,517: NOTICE set page_cache thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set page_cache thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread log_system
+2015-03-11 10:38:51,517: NOTICE set run thread's hash_map cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,517: NOTICE set run thread's page_cache
+2015-03-11 10:38:51,525: NOTICE disk word_cache read is over!
+2015-03-11 10:38:51,525: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:38:51,526: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:38:51,526: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:38:51,526: NOTICE disk word_cache write is over!
+2015-03-11 10:38:51,527: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:38:51,537: NOTICE disk page_cache read is over!
+2015-03-11 10:38:51,537: NOTICE page_cache synchronize start!
+2015-03-11 10:38:51,538: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:38:51,540: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:38:51,540: NOTICE disk page_cache write is over!
+2015-03-11 10:38:51,541: NOTICE page_cache synchronize over!
+2015-03-11 10:38:51,541: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:38:51,541: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:38:51,541: NOTICE title_cache synchronize over!
+2015-03-11 10:39:01,527: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:39:01,528: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:39:01,528: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:39:01,528: NOTICE disk word_cache write is over!
+2015-03-11 10:39:01,528: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:39:01,550: NOTICE page_cache synchronize start!
+2015-03-11 10:39:01,551: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:39:01,553: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:39:01,554: NOTICE disk page_cache write is over!
+2015-03-11 10:39:01,554: NOTICE page_cache synchronize over!
+2015-03-11 10:39:01,554: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:39:01,554: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:39:01,554: NOTICE title_cache synchronize over!
+2015-03-11 10:39:05,460: NOTICE server wait for connecting.........
+2015-03-11 10:39:11,528: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:39:11,529: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:39:11,529: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:39:11,529: NOTICE disk word_cache write is over!
+2015-03-11 10:39:11,530: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:39:11,554: NOTICE page_cache synchronize start!
+2015-03-11 10:39:11,555: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:39:11,557: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:39:11,558: NOTICE disk page_cache write is over!
+2015-03-11 10:39:11,558: NOTICE page_cache synchronize over!
+2015-03-11 10:39:11,558: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:39:11,558: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:39:11,558: NOTICE title_cache synchronize over!
+2015-03-11 10:39:12,971: NOTICE main thread ID: 139649055643456connect client(IP192.168.1.191:41197)
+2015-03-11 10:39:12,971: NOTICE work thread ID: 139649014810368 handle the search task 
+
+2015-03-11 10:39:14,545: NOTICE 139649014810368 ERROR server recv message length failed 
+
+2015-03-11 10:39:14,545: NOTICE work thread ID: 139649014810368 recv word is  卧槽
+
+2015-03-11 10:39:14,545: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 10:39:14,545: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 10:39:14,566: NOTICE put title_abstract in thread's page_cache
+2015-03-11 10:39:14,566: NOTICE put title_content in thread's title_cache
+2015-03-11 10:39:14,566: NOTICE work thread ID: 139649014810368 recv msg is right and has page result 
+
+2015-03-11 10:39:19,857: NOTICE 139649014810368 ERROR server recv message length failed 
+
+2015-03-11 10:39:21,530: NOTICE word_cache_thread synchronize start!
+2015-03-11 10:39:21,531: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 10:39:21,531: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 10:39:21,531: NOTICE disk word_cache write is over!
+2015-03-11 10:39:21,531: NOTICE word_cache_thread synchronize over!
+2015-03-11 10:39:21,559: NOTICE page_cache synchronize start!
+2015-03-11 10:39:21,560: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 10:39:21,562: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 10:39:21,563: NOTICE disk page_cache write is over!
+2015-03-11 10:39:21,563: NOTICE page_cache synchronize over!
+2015-03-11 10:39:21,563: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 10:39:21,563: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 10:39:21,563: NOTICE title_cache synchronize over!
+2015-03-11 10:39:21,754: NOTICE 139649014810368 ERROR server recv message length failed 
+
+2015-03-11 10:39:21,754: NOTICE work thread ID: 139649014810368client has been finish it's search_task or shutdown!
+
+2015-03-11 10:39:21,754: NOTICE work thread ID: 139649014810368 finish the search task
+
+2015-03-11 16:56:51,536: NOTICE set cache thread log_system 
+2015-03-11 16:56:51,537: NOTICE set cache thread hash_map cache
+2015-03-11 16:56:51,537: NOTICE set page_cache thread log_system 
+2015-03-11 16:56:51,537: NOTICE set page_cache thread's page_cache
+2015-03-11 16:56:51,537: NOTICE set page_cache thread's page_cache
+2015-03-11 16:56:51,537: NOTICE set run thread log_system
+2015-03-11 16:56:51,537: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,537: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,537: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,537: NOTICE set run thread log_system
+2015-03-11 16:56:51,537: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,537: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,537: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread log_system
+2015-03-11 16:56:51,538: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread log_system
+2015-03-11 16:56:51,538: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread log_system
+2015-03-11 16:56:51,538: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,538: NOTICE set run thread log_system
+2015-03-11 16:56:51,538: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,538: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread log_system
+2015-03-11 16:56:51,539: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread log_system
+2015-03-11 16:56:51,539: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread log_system
+2015-03-11 16:56:51,539: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread log_system
+2015-03-11 16:56:51,539: NOTICE set run thread's hash_map cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE set run thread's page_cache
+2015-03-11 16:56:51,539: NOTICE disk word_cache read is over!
+2015-03-11 16:56:51,539: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:56:51,540: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:56:51,541: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:56:51,541: NOTICE disk word_cache write is over!
+2015-03-11 16:56:51,541: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:56:51,542: NOTICE disk page_cache read is over!
+2015-03-11 16:56:51,542: NOTICE page_cache synchronize start!
+2015-03-11 16:56:51,543: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:56:51,545: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:56:51,546: NOTICE disk page_cache write is over!
+2015-03-11 16:56:51,546: NOTICE page_cache synchronize over!
+2015-03-11 16:56:51,547: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:56:51,547: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:56:51,547: NOTICE title_cache synchronize over!
+2015-03-11 16:57:01,542: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:01,543: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:01,543: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:01,543: NOTICE disk word_cache write is over!
+2015-03-11 16:57:01,543: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:01,547: NOTICE page_cache synchronize start!
+2015-03-11 16:57:01,548: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:01,550: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:01,551: NOTICE disk page_cache write is over!
+2015-03-11 16:57:01,552: NOTICE page_cache synchronize over!
+2015-03-11 16:57:01,552: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:01,552: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:01,552: NOTICE title_cache synchronize over!
+2015-03-11 16:57:10,626: NOTICE server wait for connecting.........
+2015-03-11 16:57:11,546: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:11,548: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:11,548: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:11,549: NOTICE disk word_cache write is over!
+2015-03-11 16:57:11,549: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:11,553: NOTICE page_cache synchronize start!
+2015-03-11 16:57:11,555: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:11,558: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:11,559: NOTICE disk page_cache write is over!
+2015-03-11 16:57:11,559: NOTICE page_cache synchronize over!
+2015-03-11 16:57:11,559: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:11,559: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:11,559: NOTICE title_cache synchronize over!
+2015-03-11 16:57:21,552: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:21,554: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:21,554: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:21,554: NOTICE disk word_cache write is over!
+2015-03-11 16:57:21,555: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:21,560: NOTICE page_cache synchronize start!
+2015-03-11 16:57:21,562: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:21,566: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:21,567: NOTICE disk page_cache write is over!
+2015-03-11 16:57:21,568: NOTICE page_cache synchronize over!
+2015-03-11 16:57:21,568: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:21,568: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:21,568: NOTICE title_cache synchronize over!
+2015-03-11 16:57:31,560: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:31,561: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:31,561: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:31,562: NOTICE disk word_cache write is over!
+2015-03-11 16:57:31,562: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:31,568: NOTICE page_cache synchronize start!
+2015-03-11 16:57:31,570: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:31,573: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:31,574: NOTICE disk page_cache write is over!
+2015-03-11 16:57:31,574: NOTICE page_cache synchronize over!
+2015-03-11 16:57:31,574: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:31,575: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:31,575: NOTICE title_cache synchronize over!
+2015-03-11 16:57:40,609: NOTICE main thread ID: 139986530867008connect client(IP192.168.1.191:41245)
+2015-03-11 16:57:40,609: NOTICE work thread ID: 139986481641216 handle the search task 
+
+2015-03-11 16:57:41,563: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:41,564: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:41,564: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:41,565: NOTICE disk word_cache write is over!
+2015-03-11 16:57:41,565: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:41,575: NOTICE page_cache synchronize start!
+2015-03-11 16:57:41,576: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:41,579: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:41,580: NOTICE disk page_cache write is over!
+2015-03-11 16:57:41,580: NOTICE page_cache synchronize over!
+2015-03-11 16:57:41,580: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:41,580: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:41,580: NOTICE title_cache synchronize over!
+2015-03-11 16:57:43,762: NOTICE 139986481641216 ERROR server recv message length failed 
+
+2015-03-11 16:57:43,762: NOTICE work thread ID: 139986481641216 recv word is  李鸿章
+
+2015-03-11 16:57:43,762: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 16:57:43,765: NOTICE run thread's word_cache has result,return answer to client directly
+2015-03-11 16:57:43,765: NOTICE work thread ID: 139986481641216 recv msg is right and has page result 
+
+2015-03-11 16:57:50,560: NOTICE 139986481641216 ERROR server recv message length failed 
+
+2015-03-11 16:57:51,565: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:57:51,566: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:57:51,566: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:57:51,566: NOTICE disk word_cache write is over!
+2015-03-11 16:57:51,566: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:57:51,581: NOTICE page_cache synchronize start!
+2015-03-11 16:57:51,582: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:57:51,585: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:57:51,586: NOTICE disk page_cache write is over!
+2015-03-11 16:57:51,586: NOTICE page_cache synchronize over!
+2015-03-11 16:57:51,586: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:57:51,586: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:57:51,586: NOTICE title_cache synchronize over!
+2015-03-11 16:58:04,992: NOTICE set cache thread log_system 
+2015-03-11 16:58:04,993: NOTICE set cache thread hash_map cache
+2015-03-11 16:58:04,993: NOTICE set page_cache thread log_system 
+2015-03-11 16:58:04,993: NOTICE set page_cache thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set page_cache thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,993: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,993: NOTICE disk word_cache read is over!
+2015-03-11 16:58:04,994: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:58:04,994: NOTICE disk page_cache read is over!
+2015-03-11 16:58:04,994: NOTICE page_cache synchronize start!
+2015-03-11 16:58:04,994: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:58:04,994: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:58:04,995: NOTICE disk word_cache write is over!
+2015-03-11 16:58:04,995: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:58:04,995: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:58:04,993: NOTICE set run thread log_system
+2015-03-11 16:58:04,995: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,995: NOTICE set run thread log_system
+2015-03-11 16:58:04,995: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,995: NOTICE set run thread log_system
+2015-03-11 16:58:04,995: NOTICE set run thread's hash_map cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,995: NOTICE set run thread's page_cache
+2015-03-11 16:58:04,996: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:58:04,997: NOTICE disk page_cache write is over!
+2015-03-11 16:58:04,997: NOTICE page_cache synchronize over!
+2015-03-11 16:58:04,997: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:58:04,997: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:58:04,997: NOTICE title_cache synchronize over!
+2015-03-11 16:58:14,998: NOTICE page_cache synchronize start!
+2015-03-11 16:58:14,999: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:58:15,001: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:58:15,002: NOTICE disk page_cache write is over!
+2015-03-11 16:58:15,002: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:58:15,003: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:58:15,003: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:58:15,003: NOTICE disk word_cache write is over!
+2015-03-11 16:58:15,003: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:58:15,004: NOTICE page_cache synchronize over!
+2015-03-11 16:58:15,004: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:58:15,004: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:58:15,004: NOTICE title_cache synchronize over!
+2015-03-11 16:58:21,833: NOTICE server wait for connecting.........
+2015-03-11 16:58:23,893: NOTICE main thread ID: 140461089617728connect client(IP192.168.1.191:41246)
+2015-03-11 16:58:23,893: NOTICE work thread ID: 140461048784640 handle the search task 
+
+2015-03-11 16:58:25,004: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:58:25,004: NOTICE page_cache synchronize start!
+2015-03-11 16:58:25,005: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:58:25,005: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:58:25,005: NOTICE disk word_cache write is over!
+2015-03-11 16:58:25,005: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:58:25,005: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:58:25,008: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:58:25,008: NOTICE disk page_cache write is over!
+2015-03-11 16:58:25,009: NOTICE page_cache synchronize over!
+2015-03-11 16:58:25,009: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:58:25,009: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:58:25,009: NOTICE title_cache synchronize over!
+2015-03-11 16:58:27,078: NOTICE 140461048784640 ERROR server recv message length failed 
+
+2015-03-11 16:58:27,078: NOTICE work thread ID: 140461048784640 recv word is  gdsad
+
+2015-03-11 16:58:27,078: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 16:58:30,764: NOTICE 140461048784640 ERROR server recv message length failed 
+
+2015-03-11 16:58:30,764: NOTICE work thread ID: 140461048784640 recv word is  光绪
+
+2015-03-11 16:58:30,764: NOTICE run thread's page_cache no result,go to hash_map index of dic for answer
+2015-03-11 16:58:30,766: NOTICE run thread's page_cache no result,go to word_page_rindex  for answer
+2015-03-11 16:58:30,999: NOTICE put title_abstract in thread's page_cache
+2015-03-11 16:58:31,011: NOTICE put title_content in thread's title_cache
+2015-03-11 16:58:31,011: NOTICE work thread ID: 140461048784640 recv msg is right and has page result 
+
+2015-03-11 16:58:35,005: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:58:35,007: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:58:35,007: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:58:35,007: NOTICE disk word_cache write is over!
+2015-03-11 16:58:35,007: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:58:35,009: NOTICE page_cache synchronize start!
+2015-03-11 16:58:35,010: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:58:35,013: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:58:35,014: NOTICE disk page_cache write is over!
+2015-03-11 16:58:35,014: NOTICE page_cache synchronize over!
+2015-03-11 16:58:35,027: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:58:35,027: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:58:35,027: NOTICE title_cache synchronize over!
+2015-03-11 16:58:45,009: NOTICE word_cache_thread synchronize start!
+2015-03-11 16:58:45,011: NOTICE word_cache thread syschronize thread_pool's hash_map
+2015-03-11 16:58:45,011: NOTICE word_cache thread syschronize result back to thread_pool
+2015-03-11 16:58:45,012: NOTICE disk word_cache write is over!
+2015-03-11 16:58:45,012: NOTICE word_cache_thread synchronize over!
+2015-03-11 16:58:45,027: NOTICE page_cache synchronize start!
+2015-03-11 16:58:45,030: NOTICE page_cache thread syschronize thread_pool's page_cache
+2015-03-11 16:58:45,033: NOTICE page_cache thread syschronize page_cache back to thread_pool
+2015-03-11 16:58:45,034: NOTICE disk page_cache write is over!
+2015-03-11 16:58:45,034: NOTICE page_cache synchronize over!
+2015-03-11 16:58:45,153: NOTICE page_cache thread syschronize thread_pool's title_cache
+2015-03-11 16:58:45,153: NOTICE page_cache thread syschronize title_cache back to thread_pool
+2015-03-11 16:58:45,153: NOTICE title_cache synchronize over!
+2015-03-11 16:58:50,277: NOTICE 140461048784640 ERROR server recv message length failed 
+
+2015-03-11 16:58:52,306: NOTICE 140461048784640 ERROR server recv message length failed 
+
+2015-03-11 16:58:52,306: NOTICE work thread ID: 140461048784640client has been finish it's search_task or shutdown!
+
+2015-03-11 16:58:52,306: NOTICE work thread ID: 140461048784640 finish the search task
+
